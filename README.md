@@ -1,4 +1,4 @@
-# Registration and Login Dashboard with Photos
+# Registration and Login Dashboard
 
 This project is a simple web application built with PHP and MySQL that allows users to register, login, and access a dashboard.
 
